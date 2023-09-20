@@ -1,0 +1,13 @@
+.prime,.secu{
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman',sans-serif;
+}
+
+.prime{
+    background-color: black;
+    color: white;
+}
+
+.secu{
+    background-color: yellow;
+}
